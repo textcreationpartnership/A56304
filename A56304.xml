@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The puritanical justice, or, The beggars turn'd thieves by way of farce as it was lately acted in and about the city of London.</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56304</idno><idno type="EEBO-CITATION">12639356</idno>
+  <idno type="VID">64996</idno>
+  <idno type="EEBO-PROQUEST">2240969309</idno>
+  
+            <idno type="STC">Wing P4231</idno>
+            <idno type="STC">ESTC R8137</idno>
+            <idno type="OCLC">12639356</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 773:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The puritanical justice, or, The beggars turn'd thieves by way of farce as it was lately acted in and about the city of London.</title>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by John Wells ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64996:1"/>
+            <pb facs="tcp:64996:1"/>
+            <p>The Puritanical JUSTICE: OR, THE <hi>Beggars</hi> turn'd <hi>Thieves.</hi>
+            </p>
+            <p>By way of FARCE.</p>
+            <p>As it was lately Acted in and about the City of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>First Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and are to be sold by <hi>John Wells,</hi> Bookbinder, in St. <hi>Paul</hi>'s Alley. 1698.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:64996:2"/>
+            <pb facs="tcp:64996:2"/>
+            <head>THE PROLOGUE.</head>
+            <byline>Spoke by <hi>SNEAK.</hi>
+            </byline>
+            <l>THe Law is ours, and every Soul shall stand</l>
+            <l>Amaz'd, and trembling at severe Command;</l>
+            <l>Women have rul'd alone, with Power and Sway,</l>
+            <l>And oft taught proudest Man for to Obey;</l>
+            <l>We'll try the Copes and Vestments to pull down,</l>
+            <l>Of each proud Prelate that infects the Town;</l>
+            <l>Wer'e more precise, Religion's more sincere,</l>
+            <l>We meet in Halls, and Parlours every where:</l>
+            <l>No <hi>Beggars</hi> crys shall be heard in the Streets,</l>
+            <l>The Godly man our Table too oft greets;</l>
+            <l>
+               <hi>Informers</hi> too shall take up all the Whores,</l>
+            <l>To show how chast is Vertue in our Doors.</l>
+            <l>Our Acts and Deeds in every Mouth shall ring,</l>
+            <l>Whilst tooting Organs Anthems vainly Sing,</l>
+            <l>The Church and Poor shall ever feel our Sting.</l>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:64996:3"/>
+            <head>Persons concern'd in this Farce.</head>
+            <list>
+               <label>Terrour.</label>
+               <item>A severe wiggish Justice of Peace, by whose rigid Authority the <hi>Beggars</hi> are forc'd to turn <hi>Thieves</hi> for a Subsistance.</item>
+               <label>Ignorance his Clark.</label>
+               <item>A Boobily Blockhead, that is forc'd to take In<g ref="char:EOLhyphen"/>structions from his Mistress to write a <hi>Mittimus.</hi>
+               </item>
+               <label>Scourge.</label>
+               <item>The Beadle.</item>
+               <label>
+                  <hi>Informers, Beggars, Thieves,</hi> &amp;c.</label>
+               <item> </item>
+               <label>Sneak. Wife to Terrour.</label>
+               <item>A Griping, Covetous, Puritanical, Conceit<g ref="char:EOLhyphen"/>ed, Proud Woman, who pretends to govern the Justice both by her Instructions and Example.</item>
+               <label>Cant her Woman.</label>
+               <item>A Saint of the same Tribe, as impertinent as her Mistress.</item>
+               <label>Informer Jenk.</label>
+               <item>Picking up Citizens Wives instead of Whores, and forc'd before a Justice of Peace.</item>
+               <label>
+                  <hi>Citizens Wives, Whores, Beggars, Constables,</hi> and <hi>Bridewel-men</hi>
+               </label>
+               <item> </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64996:3"/>
+            <head>The Puritannical JUSTICE: OR, THE BEGGARS turn'd THIEVES.</head>
+            <div n="1" type="act">
+               <head>ACT the First.</head>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE</hi> The Justice's House.</head>
+                  <stage>
+                     <hi>Enter</hi> Terrour, Sneak <hi>and</hi> Cant.</stage>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>WEll, Wife, you see I am preferred for my Merit to be a Scourge to the Lazy, a Bridle to the Unruly, a Halter and Brand to Thieves, and a Flogging Director to Whores, Whoremongers, and Adulterers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>But good Mr. <hi>Authority,</hi> pray take the prudent Council of your Wife in these weighty Affairs, for you know you had never arose to this all-wise Command, with<g ref="char:EOLhyphen"/>out my assisting Direction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ter.</speaker>
+                     <p>Thou indulging Promoter both of my Estate and Power, we'll act Hand in Hand in the Administration of Justice; for I am sufficiently sensible of my own insuffici<g ref="char:EOLhyphen"/>ency, without thy controuling Judicature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>In order to which, we will encourage Infor<g ref="char:EOLhyphen"/>mers,
+<pb n="2" facs="tcp:64996:4"/> punish all Night-walkers, suppress the Beggars, and force the Church Dissenters to our Conventicles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>I'll punctually follow thy Direction, and I'l take my Bage of Authority to demolish the Idolitrous Sanc<g ref="char:EOLhyphen"/>tuaries of the Whore of <hi>Babylon,</hi> and force them by vertue of my Power to imitate our unpresidented ex<g ref="char:EOLhyphen"/>ample.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Well, <hi>Cant,</hi> What think you of this Promotion? I think my self now one of the chief of Citizens, and you that wate one me above the middle sort.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cant.</speaker>
+                     <p>Indeed, forsooth, I look upon self so, for yesterday I took place of my Neighbour <hi>Gripes</hi> Wife, tho' her Hus<g ref="char:EOLhyphen"/>band expects to be Sheriff the next Election.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Ay, ay, hold up thy Head, <hi>Cant;</hi> the whole Fa<g ref="char:EOLhyphen"/>mily shall rise, by hanging upon the Tail of my Honour. — but prithee <hi>Cant</hi> call in <hi>Ignorance —</hi> and lets examine whither he is capable to make a <hi>Mittimus</hi> upon occasion, for I'm altogether ignorant my self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Call him <hi>Cant,</hi> and I'll give him Instructions, for I have the Justice's Clerk, in my Closet, I plac't it be<g ref="char:EOLhyphen"/>tween <hi>Culpepper</hi>'s <hi>Midwife</hi> and <hi>Aristotle's Problems,</hi> for the better recollection of my Memory.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cant.</speaker>
+                     <p>I'll call in the Type of your Authority in your ab<g ref="char:EOLhyphen"/>sence, in an instant.
+<stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Prithee, Wife, what think you of punishing Offenders on the Lord's day; the People are as loose and extravigant in this Age as they were before that religious Deffender of our Liberties <hi>Oliver Cromwel</hi> restraind them on the Sabbath.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>'Tis an offence to God and Religion—And I protest I think the Parliament was mighty weak, to allow of Milk and Mackrel, to so manifest a prophanation of our reform'd Devotion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>In order to which, I'l Issue out my Commands, That no Victualler draw Drink, no Herb-woman sell her Sallets, no Cooks dress Meet, no Bakers bake Pyes, no
+<pb n="3" facs="tcp:64996:4"/> People carry Bundles upon forfeiture of every such Com<g ref="char:EOLhyphen"/>modity, with a severe Punishment additional for the hai<g ref="char:EOLhyphen"/>nous, crying, sinful Presumption.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Ay, ay, we must carry a severe Hand over the Mobility, and that will create a Reverence in us in our Religion and Proceedings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Right, Wife! —</p>
+                     <stage>
+                        <hi>Enter</hi> Cant <hi>and</hi> Ignorance.</stage>
+                     <p>But here comes <hi>Ignorance</hi> my Representative; we must examine the depth of his Wisdom, about these important Affairs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>
+                        <hi>Cant,</hi> go and fetch the Justice of Peace's Clerk, I put it between the two learned Books, you and I use to consult.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cant.</speaker>
+                     <p>O dear Madam, I believe you and I are as know<g ref="char:EOLhyphen"/>ing in Law and Physick as all the Physitians and Justices of Peace's Wifes about Town: And for Religion, you know we use to instruct the wisest: But I'l do my errant immediately.
+<stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Come <hi>Ignorance,</hi> I prefer thee to my right Hand of Justice, thou must right the commanding <hi>Terrour,</hi> to force both the Lazy and the Wanton to Cor<g ref="char:EOLhyphen"/>rection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>Ay, ay, we'll spare no <hi>Beggars,</hi> for our <hi>Cant</hi> gave away the reversion of the Leg of Beef, because it was windy, and she could not eat it, and so I went with<g ref="char:EOLhyphen"/>out my Supper last Night.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>I protest if ever I know she gives away so much as the Rind of Bacon any more, I declare I'll discard her my Service, — Prithe <hi>Ignorance</hi> call the <hi>Beadle,</hi> and well give him positive Orders to take all the <hi>Beggars</hi> to Correction. They'r grown so numerous, if we don't suppress 'em they may ruin substantial Families.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>Ay, Madam, I'l obey your Orders; and at my
+<pb n="4" facs="tcp:64996:5"/> return, you shall lend me your Book, and I'll Con it over my self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Make what haste you can; for I'm resolved to shew all the <hi>Beggars</hi> in Town the terrible Prosecution of my all-powerfull Justice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>I'l shew my Obedience in my Diligence.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Ignorance.</stage>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Hold! Hold! <hi>Ignorance, Ignorance,</hi> one Word more.</p>
+                     <stage>
+                        <hi>Reenter</hi> Ignorance.</stage>
+                     <p>Prithee acquant the <hi>Informers</hi> I told you of, and so one trouble will serve both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>Your Commands shall be obey'd Obsequi<g ref="char:EOLhyphen"/>ously.
+<stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Cant, <hi>with Two Books.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Cant.</speaker>
+                     <p>Indeed and indeed, Madam! I found the prettiest Book here between the <hi>Believers Golden Chain,</hi> and <hi>Bax<g ref="char:EOLhyphen"/>ters Family Devotion,</hi> as ever I saw in my Life; pray ac<g ref="char:EOLhyphen"/>quaint me with the Name.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Why, thou Simpleton, it's a Book of <hi>Aretine's Postures,</hi> a Secreet only amongst the Women — Get you back, and put it safe in the Place again, upon Forfeiture of my Displeasure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cant.</speaker>
+                     <p>I'll place it sase as before, after I have perused it with a pious Intention.
+<stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Ignorance, <hi>with three</hi> Informers, <hi>and the</hi> Beadle.</stage>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>As luck wou'd have it, I lighted of the <hi>Beadle</hi> just by, and the <hi>Informers</hi> were coming to wait upon your Worship.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>'Tis very well, for they may be very instru<g ref="char:EOLhyphen"/>mental in the Execution of my Commands, in suppressing the Beastly, Lewd, and Lazy of this Town.</p>
+                  </sp>
+                  <sp>
+                     <pb n="5" facs="tcp:64996:5"/>
+                     <speaker>1 <hi>Informer Jenk.</hi>
+                     </speaker>
+                     <p>Ay, ay, Right Worshipful, we'll de<g ref="char:EOLhyphen"/>coy the Women to Drink with us, then we'll bring 'em before you to commit 'em to Correction, by virtue of your Authority.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Their Impudence I have heard is a Scandal to all sober Women; therefore let their Punishment be with<g ref="char:EOLhyphen"/>out either Mercy or Limitation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Informer.</hi>
+                     </speaker>
+                     <p>They are Notorious Jilts both to Religion and Honesty, and they Glory in nothing but their pol<g ref="char:EOLhyphen"/>luted Whoredoms.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>I'll be so exemplary in my Justice, that the Town shall be as free from Whores as I am void of Perjury.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Informer.</hi>
+                     </speaker>
+                     <p>We'll be your Creatures to entrap 'em, and leave the Requital of our Trouble to your Religious Bounty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>You shall prefer 'em, Husband, for their since<g ref="char:EOLhyphen"/>rity in the Cause.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>And me too, I hope, for my Zeal to the Holy Brethren.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>I have no other way to Establish my own Re<g ref="char:EOLhyphen"/>pute, but by making my self Fear'd by the Severity of my Justice, and by preferring the Tools which execute my Commands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Informer Jenk.</hi>
+                     </speaker>
+                     <p>We'll venture Lives and Reputations to serve so Zealous a Commonwealths-man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Informer.</hi>
+                     </speaker>
+                     <p>The <hi>good Old Cause</hi> never prosper'd, till manag'd and carry'd on with Vigorous Persecution.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Informer.</hi>
+                     </speaker>
+                     <p>We'll be as politick to suppress Vice, as they are diligent to promote it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Let your last Instructions be, That you spare none; that we may give Example to the Church, of the difference of our Severity and their Liberty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Informers.</speaker>
+                     <p>We'll all Religiously and Industriously obey your Orders.
+<stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="6" facs="tcp:64996:6"/>
+                     <speaker>Sneak.</speaker>
+                     <p>I fear, Love, the multiplicity of our Affairs has hinder'd the fervency of our Devotion: let's haste to Lec<g ref="char:EOLhyphen"/>ture lest we are censur'd amongst the Brethren.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>I'll attend to dispatch the Lord's Occasions, after we have so prosperously preferr'd our own. Only, Wife, pray first give charge to the Beadle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Pray, Mr. Beadle, execute your Office so strictly under our Authority, that no <hi>Beggar</hi> be seen in our Pre<g ref="char:EOLhyphen"/>cincts, upon forfeiture both of Disgrace and Place.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Beadle.</speaker>
+                     <p>I'll be so diligent, that for all your Number of <hi>Informers,</hi> I'll ingage there shall be Five hundred <hi>Whores</hi> for one <hi>Beggar</hi> through my walks in the City.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>We design to extirpate both; therefore post to their Correction, and do you <hi>Ignorance</hi> wait on us to Devotion.
+<stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE</hi> Knock-Verges. An uninhabited House for some time at the upper end of <hi>Rose-mary-lane,</hi> but now the Receptacle and Rendevouz of Poor <hi>Thieves</hi> and <hi>Beggars.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter several Poor</hi> Thieves <hi>with their Booties, lately</hi> Beggars.</stage>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>'TIs beter to be Hang'd than Starv'd; these will afford us some recruits for the Belly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Right, Brother; tho we get good Sustenance without danger before this whipping Monster frighted us from our Livelihoods.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Did you hear the Story of the Merchant that sent his Basket of Scraps to the Justice in a Joke, because
+<pb n="7" facs="tcp:64996:6"/> there was none of our Fraternity found to dispose of them too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Yes; and the Trick he put upon himself too, in sending his own Venison-Pasty to the Prisoners, think<g ref="char:EOLhyphen"/>ing it had been his Neighbours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>I believe the Gray-Mare is the better Horse there; for she's a Sneaking, Puritanical, Pinch-fart I'm sure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Ay, ay, Justice is rare Justice indeed, that's Judg'd, Condemn'd and Hang'd, by the brittle Hem of a foolish Womans Smock only.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Why you foolish Booby, if one Hair be strong<g ref="char:EOLhyphen"/>er than a Cable, a great many may easily draw Justice to Tyrany, and Liberty to Usurpation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Thief.</hi>
+                     </speaker>
+                     <p>'Tis certain that the Trinkets that the Fools in Caps carried before, for us behind to laught at, was drawn from Church to Conventicle, with three or four of these Commanders of Justice twisted together.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter several</hi> Beggars <hi>to them, as from the House of Correction.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>Pox take Justice, if this is it, we are not only half Starv'd, but almost Whipt to Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Faith, Brother, 'twas our case last Week; but we have now chang'd our Calling, and will treat with a good Supper and strong Booze, if you'll enter into our Society.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>A fair Proposal; 'tis better to embrace a short Life and a merry, than suffer the Miseries of this Barbarous Justice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Come, Brothers, if your all agree'd, we'll enjoy our selves, and be merry, curse Arbitrary Power, and set up for our selves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>Agreed! and may Damnation seise the first that Wheedles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Thief.</hi>
+                     </speaker>
+                     <p>
+                        <hi>Ned,</hi> whistle for Refreshment</p>
+                  </sp>
+                  <stage>
+                     <pb n="8" facs="tcp:64996:7"/>Ned <hi>whistles, and Drink and Ʋictuals is brought from the adjoyning Alehouse.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Come, Brother! here's Distruction to the Hang<g ref="char:EOLhyphen"/>man and Justice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>If we are noos'd, let the Sin fall upon his Puri<g ref="char:EOLhyphen"/>tanical Congregation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>Damn him, and all his Executioners; let's Drink and divert those dismal Thoughts with a Song.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Omnes.</speaker>
+                     <p>Agreed: but first let the Pot go round.</p>
+                  </sp>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="song">
+                              <head>They Sing.</head>
+                              <l>FRom <hi>Beggars</hi> alarm'd,</l>
+                              <l>Now <hi>Thieves</hi> we'll be Arm'd,</l>
+                              <l>And act all the Mischief</l>
+                              <l>We can, Sir;</l>
+                              <l>If we're hang'd from a Cart,</l>
+                              <l>We'll each let a Fart,</l>
+                              <l>For the Justice that caus'd this</l>
+                              <l>Sad end, Sir.</l>
+                              <l>And to his sweet Lady</l>
+                              <l>That's Priest-ridden, Hei-day,</l>
+                              <l>Yet rides the dull Beast at her Pleasure,</l>
+                              <l>Our Members bequeath,</l>
+                              <l>In her Scabbard to sheath,</l>
+                              <l>To incite her Devotion at leisure.</l>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <sp>
+                     <pb n="9" facs="tcp:64996:7"/>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Well, for all this, Wolf preaches Religion and holy living to the Sheep; I have heard he has been recorded for Purjury.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>I heard a Gentleman declare once, that Men of the most corrupt and vicious Lives, once plac'd in Power, are tyrannical by Nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>A plain Case, by this Beggar-hunter; for he forces us to turn Thieves, contrary to our Destiny, beyond the malice of Fortune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>He makes Converts, with a Pox to him; for he forces us to confess to his Ghostly Father <hi>Tyburn.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Thief.</hi>
+                     </speaker>
+                     <p>'Tis hop'd the penurious Caitiff will starve himself to Death, and then we may return to our old Professions; for his Wife does g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utch each bit he Eats.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Beggar.</hi>
+                     </speaker>
+                     <p>He was Born under <hi>Scorpio,</hi> as I heard an Astrologer affirm, and his Lady was of the Race of <hi>Pro<g ref="char:EOLhyphen"/>serpine;</hi> both sent here as Plagues to Mankind, to send poor Souls to Hell to make Attonement for their own Vil<g ref="char:EOLhyphen"/>lanies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Come, this is melancholy Entertainment: It's time enough to think of Hanging at St. <hi>Giles</hi>'s — We'll have another Song to divert the Thoughts of his Cruelty, and our own Misfortunes.</p>
+                  </sp>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="song">
+                              <head>The Song.</head>
+                              <l>CHear up, chear up,</l>
+                              <l>And let the <hi>Beadles</hi> scowr</l>
+                              <l>The Streets with his Rods, and his Staff Night and Day:</l>
+                              <l>We'll play least in Sight,</l>
+                              <l>And be out of Power,</l>
+                              <l>We steal that by Night,</l>
+                              <l>That we Revel with next Day.</l>
+                              <pb n="10" facs="tcp:64996:8"/>
+                              <l>Then Confusion shall be drunk</l>
+                              <l>To the Justice and his Punk,</l>
+                              <l>To the <hi>Constables</hi> and <hi>Beadles,</hi>
+                              </l>
+                              <l>And <hi>Informers</hi> with their Wheedles,</l>
+                              <l>To all Bridewel Dogs and Goalers,</l>
+                              <l>And Hell-born <hi>Beggar</hi> Railers.</l>
+                              <l>Thus, thus, we'll merry be,</l>
+                              <l>Till either they, or we,</l>
+                              <l>Swing to Heaven in a String,</l>
+                              <l>With Hei ding, ding,</l>
+                              <l>Thank the Justice.</l>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <stage>
+                     <hi>Enter several other</hi> Beggars, <hi>some Lame, some Blind, some Leperous, and others afflicted with the King's-Evil, and all from</hi> Bridewel.</stage>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>I find ours will become a very numerous So<g ref="char:EOLhyphen"/>ciety, but most of those are uncapable of Business.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Cripple.</hi>
+                     </speaker>
+                     <p>I understand the sneaking Budge incompa<g ref="char:EOLhyphen"/>rably, therefore I beg my admission.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Thief.</hi>
+                     </speaker>
+                     <p>This Fellow may be useful upon several Occa<g ref="char:EOLhyphen"/>sions; therefore we will elect him to strengthen the Society.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Thief.</hi>
+                     </speaker>
+                     <p>I fear this Blind-man, is altogether unqualified.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Blind Beggar.</speaker>
+                     <p>I can file a Cloy in a Croud, and come off unsuspected.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Upon my Word he's an Artist; I have observ'd him lately dext'rous in that Vocation: But what are these <hi>Leperous</hi> and <hi>Ʋlcerous</hi> Fellows sit for? We must have none useless by reason of our Wifes and Children.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Leperous and Ʋlcerous.</speaker>
+                     <p>We can steal <hi>Mops, Brooms, Cloaths</hi> off of Lines; for we must play at small Games ra<g ref="char:EOLhyphen"/>ther than stand out; and by reason of our Sickness, we are not suspected.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Very well, you shall be admitted; and we'll Teach our Wives and Children the profitable Art of our Adventures.</p>
+                  </sp>
+                  <stage>
+                     <pb n="11" facs="tcp:64996:8"/>
+                     <hi>Enter several</hi> Constables, Beadles, Watchmen, <hi>and other Fol<g ref="char:EOLhyphen"/>lowers, with one of the</hi> Thieves <hi>turn'd</hi> Informer.</stage>
+                  <sp>
+                     <speaker>Infor. Thief.</speaker>
+                     <p>This is the Place of Rendevouz, Mr. <hi>Constables,</hi> are these the Criminals.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Constable.</hi>
+                     </speaker>
+                     <p>Well, well, take 'em before Justice <hi>Ter<g ref="char:EOLhyphen"/>rour,</hi> he'll inflict Punishment as they deserve.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Good, Mr. <hi>Constables,</hi> hang us up before we go any farther, for before him we can expect no Mercy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Constable.</hi>
+                     </speaker>
+                     <p>Well, <hi>Informer,</hi> you'll swear both to the Men, and their Crimes, will you not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Infor. Thief.</speaker>
+                     <p>Ay marry will I; and hear's another of the Fraternity will squeak as well as my self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Constable.</hi>
+                     </speaker>
+                     <p>Come, come, bring 'em away to Justice, in order to Commit 'em, as their Thefts deserve.</p>
+                     <stage>Several of the last admitted Thieves.</stage>
+                     <p>Good, Mr. <hi>Constables,</hi> spare us; good, Mr. <hi>Constables,</hi> speak for us to the Justice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Thief.</hi>
+                     </speaker>
+                     <p>Damn you, for cowardly Sons of Whores, I expect favour from neither <hi>Constables</hi> nor Justice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Thief.</hi>
+                     </speaker>
+                     <p>I expect nothing but the Extremity of the Law, and that I'll thank the Justice for.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Constable.</speaker>
+                     <p>Blast their Lungs, they arraign the Justice; bring 'em away, bring 'em away for Correction.</p>
+                  </sp>
+                  <stage>Exeunt Omnes</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="12" facs="tcp:64996:9"/>
+               <head>ACT III.</head>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE</hi> Bridwell. Where is discover'd several of the Poor <hi>Beggars Thieves</hi> at hard Labour, with some of the Bridwel-men standing by to Whip them to Work.</head>
+                  <sp>
+                     <speaker>1 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>'TIs a cruel Age we live in, that we can neither be permitted to <hi>Beg</hi> nor <hi>Steal,</hi> but must be thus torn with Whips, and forc'd to work beyond our Strength.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>Our Case is not quite so hard, as our Bro<g ref="char:EOLhyphen"/>thers who are committed to <hi>Newgate,</hi> the knubbing Post I fear will be their Fortune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridwel-man.</speaker>
+                     <p>Come, lazy Curs you, mind your Work, this is not time for Censuring.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>Faith and Troth, I think we had as good be hang'd with our Brethren, as undergo the cruelty of these Merciless Lictors.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Bridwel-man.</hi>
+                     </speaker>
+                     <p>You black Guard Villains, I'll maul you for your Reflections; therefore mind your Work, or we'll whip you to pieces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>My running Sores make me so weak, I cannot endure the Labour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Bridewel-men.</hi>
+                     </speaker>
+                     <p>Then you shall go to the whipping Post, and try how you'll behave your self there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>'Tis barbarous to expect as much work from us that are Sick, and Weak, and Lame, as from others who are Strong and Lusty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>I am so sore with Whipping, so disabled in my Limbs, and so crazy in my Body, that I fear I shall Dye under this Labour and Correction.</p>
+                  </sp>
+                  <sp>
+                     <pb n="13" facs="tcp:64996:9"/>
+                     <speaker>2 <hi>Bridewel-man.</hi>
+                     </speaker>
+                     <p>Hang Cur, hang, these are Quibbles and Evasions; we'll ferk you for your whining Cant, I warrant you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>If this be Justice, then there's no oppre<g ref="char:EOLhyphen"/>sion in Cruelty and Tyranny, and Sacrifice is preferr'd to Clemency and Mercy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>We had better be Slaves in <hi>Turkey</hi> than under this Puritanical Barbarity; or be our own Executi<g ref="char:EOLhyphen"/>oners, rather than undergo such unspeakable Cruelty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Bridewel-man.</hi>
+                     </speaker>
+                     <p>Ye murmuring pernicious Dogs, we'll make you both pray for his Mercy, and applaud his Justice, before we have done with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>We'll be torn Limb from Limb, sooner than crave Mercy at the Hands of our Tormentor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>Prayers are turn'd to Curses against those that have neither Charity nor Compassion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Bridewel-man.</hi>
+                     </speaker>
+                     <p>The Justice is only too merciful; ye de<g ref="char:EOLhyphen"/>serve hanging, every one of ye, ye Sons of <hi>Rapine.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>We hope to see our Betters go before us; tyrannical Oppressors, and their Executioners, have been exalted for their Offences, as I am told.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Beg. Thief.</hi>
+                     </speaker>
+                     <p>Had he any Sense, he'd have some mode<g ref="char:EOLhyphen"/>ration in But Punishments: his his are so cruelly Exem<g ref="char:EOLhyphen"/>plary, they are unpresidented.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>and</hi> 2 <hi>Bridewel-men.</hi>
+                     </speaker>
+                     <p>Since ye spurn at Authority, we'll take ye to more severe Correction.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exeunt Bridewel-men</hi> and <hi>Thief-beggars.</hi>
+                  </stage>
+               </div>
+               <div type="scene">
+                  <head>The <hi>SCENE</hi> Continues</head>
+                  <stage>
+                     <hi>Enter</hi> Informer, <hi>with several</hi> Whores, <hi>and the Bridewel-men.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1 <hi>Informer.</hi>
+                     </speaker>
+                     <p>Justice <hi>Terrour,</hi> and his Lady, has order'd these Dox's of Pleasure to hard Labour and Correction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Bridewel-men.</hi>
+                     </speaker>
+                     <p>They shall have the Severity of their Worships Orders; for we rather exceed at all times than moderate the Punishment of Justice.</p>
+                  </sp>
+                  <sp>
+                     <pb n="14" facs="tcp:64996:10"/>
+                     <speaker>2 <hi>Informer.</hi>
+                     </speaker>
+                     <p>His Worship thinks you fit Instruments to execute the Rigour of his Authourity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Whore.</hi>
+                     </speaker>
+                     <p>And thinks such Cock-bawd Pimps as you, sit Tools to execute his ridiculous Folly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Infor.</hi>
+                     </speaker>
+                     <p>Prethee, Miss, ben't Impertinent; he designs as great a Reformation as <hi>Luther</hi> made upon <hi>Rome,</hi> or <hi>Calvin</hi> upon <hi>Luther,</hi> upon all the <hi>Whors, Bawds, Thieves,</hi> and <hi>Beggars,</hi> in and about this famous City of <hi>London.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Whore.</hi>
+                     </speaker>
+                     <p>It's as impossible to do't as to turn the Tide of the <hi>Thames:</hi> Prethee carry him some of my Water, or else get him some Cows-piss, for he must needs be craz'd in the Brain; for they say, that old Womans Remedy so much in Vogue, or mine in request by <hi>Informers,</hi> cures all Distempers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Whore.</hi>
+                     </speaker>
+                     <p>Why, thou foolish Girl thou, he's too much infected with the Urine of his Wise, to drink any of thine, we'll bestow ours upon these worthy <hi>Informers.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Infor.</hi>
+                     </speaker>
+                     <p>Since one Kindness deserves another, you shall be Flog'd till you Piss, and the heat rais'd thereby, will oblige your thirst to drink your own Water to quench it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Whore.</hi>
+                     </speaker>
+                     <p>Such a cursed Race of Sycophants, as you are, were never born of a Woman; but certainly were pro<g ref="char:EOLhyphen"/>duc'd from some <hi>Incubus,</hi> and the Devil himself, in height of his Luxurious wantonness.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Whore.</hi>
+                     </speaker>
+                     <p>The Cursed Seed of <hi>Cham</hi> were Angels, in respect to these Monsters; and the Serpent that tempted <hi>Eve,</hi> was a type of this Hell-born Race to futurity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Informer.</hi>
+                     </speaker>
+                     <p>You may see the frailty of your Lascivious Tempers, and so we leave you to Correction.</p>
+                  </sp>
+                  <stage>Exeunt Informers.</stage>
+                  <sp>
+                     <speaker>1, 2, 3 <hi>Whores.</hi>
+                     </speaker>
+                     <p>May all the Curses our Sex is capable to invent befall these Villains, and their Instructors.</p>
+                  </sp>
+                  <stage>
+                     <pb n="15" facs="tcp:64996:10"/>
+                     <hi>Enter other</hi> Informers, <hi>with two Citizens Wives, of un<g ref="char:EOLhyphen"/>spotted Reputation.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>Why, you ravishing Villains, can't sober Women go about their lawful Occasions, but they must be forc'd before a Blockhead of a Justice, and com<g ref="char:EOLhyphen"/>mitted to <hi>Bridewel,</hi> for the Lewd and the Infamous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Informer.</hi>
+                     </speaker>
+                     <p>The greatest <hi>Whores</hi> pretend to most ho<g ref="char:EOLhyphen"/>nesty; Did not we pick you up fairly in the Streets?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>No, Blood-hounds, you were in pur<g ref="char:EOLhyphen"/>suit of others; and missing your Game, forc'd us here in hopes to gain your Villainous Reward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2</speaker>
+                     <p>Tho' you'r none of the Impudent common Sort, we can prove you Night-walkers, and were spreading your Nets to catch Woodcocks for Chamber-practice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>Our Husbands are Men both of Repu<g ref="char:EOLhyphen"/>tation and Substance; and they shall make you a scanda<g ref="char:EOLhyphen"/>lous Example, for this injury and affront.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Informer.</hi>
+                     </speaker>
+                     <p>The Fox, when curs'd, enjoys the Satis<g ref="char:EOLhyphen"/>faction of his Booty, tho' after Correction, we shall find you in a more doleful, supplicating Tone, to be Intercessors for your Deliverance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Cit. Wife.</hi>
+                     </speaker>
+                     <p>We'll implore Heaven to revenge the Indig<g ref="char:EOLhyphen"/>nity, and petition Justice from above, (since we meet with none below) that our Innocence may be clear'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Informer.</hi>
+                     </speaker>
+                     <p>The mortification of Whipping will bring you to Repentance, and so we leave you.</p>
+                  </sp>
+                  <stage>Exunt Informers.</stage>
+                  <sp>
+                     <speaker>1 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>The City's finely govern'd, by such Hellish Reformers; for instead of reclaiming the Vitious, they oppress and injure the Vertuous, to the utter defama<g ref="char:EOLhyphen"/>tion of Authority, by corrupting the intention of well-meaning Laws.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>When Knaves and Villains, by indi<g ref="char:EOLhyphen"/>rect means, acquire graet Heaps of Wealth, they are soon mounted in Authority, the depravity of whose Natures, and the exorbitancy of their corrupt and imperious De<g ref="char:EOLhyphen"/>sires,
+<pb n="16" facs="tcp:64996:11"/> spurs them on to act Violence and Rapin; till they verify and make true that observation of the Law, which I heard, came from a great Man, That Law is like a Cob<g ref="char:EOLhyphen"/>web, where the great Flys break through, whilst the little ones are catch'd. — But I question not but our Hus<g ref="char:EOLhyphen"/>bands will revenge our Sufferings.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter the</hi> Bridewel-men.</stage>
+                  <sp>
+                     <speaker>1 <hi>Bridewel-man.</hi>
+                     </speaker>
+                     <p>You must retire to Correction, accord<g ref="char:EOLhyphen"/>ing to order with some of your Sister Sinners.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>We must submit to this insufferable Violence, whilst our Innocence will bear testimony of the inhumanity of this Injustice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Citizens Wife.</hi>
+                     </speaker>
+                     <p>That Women of unspotted Reputati<g ref="char:EOLhyphen"/>ons should be ravish'd to punishment, without the least opportunity of defence or redress.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Bridewel-man.</hi>
+                     </speaker>
+                     <p>No more Preambles — to Correcti<g ref="char:EOLhyphen"/>on, with your Fellows.</p>
+                  </sp>
+               </div>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE</hi> Changes to <hi>Terrours</hi> House.</head>
+                  <stage>
+                     <hi>Enter</hi> Terrour, Sneak, Cant, <hi>and</hi> Ignorance.</stage>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>Well, <hi>Ignorance,</hi> have you made any <hi>Mitti<g ref="char:EOLhyphen"/>mus</hi>'s since I went out? <hi>Cant</hi> tells me the <hi>Informers</hi> have been here with some Offenders.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>Yes, Sir, since you plac'd me on your right hand of Justice, I have sent several <hi>Whores</hi> to <hi>Bridewel,</hi> and set my own Name, for yours, to their <hi>Mittimus.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>'Tis the same thing, Husban'd, I was witness to the Proceedings, and examind the matter my self; and the Case was plain both upon Enquiry and Information. So that you see, Husband, things are as well manag'd in your Absence as Presence</p>
+                  </sp>
+                  <sp>
+                     <pb n="17" facs="tcp:64996:11"/>
+                     <speaker>Terrour.</speaker>
+                     <p>Ay, ay, Wife, I was always extreamly satisfy'd in the sincerity of your Wisdom, and Ignorance is of equal knowledge with my self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cant</speaker>
+                     <p>Indeed your Justice has no equal, to punish such impudent Harlots; for tho' I wou'd shake off my Modesty, did not Damnation depend thereon, I'm sure I cou'd not appear so brazen as these wicked, very wicked Creatures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Well, Husband, for fear Nature should be frail in <hi>Cant,</hi> let her couple with <hi>Ignorance,</hi> and then she'll have no occasion to go astray.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>With all my Heart! What say you both, are you agreed,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>I shou'd be very willing to espouse the Elec<g ref="char:EOLhyphen"/>tion <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f my honoured Benefactors.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cant.</speaker>
+                     <p>I'll not turn Tall upon so good a Motion: But when shall we be Married.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Next <hi>Sunday</hi> Morning at the Conventicle: Mr. <hi>Formal Trifle</hi> is as good a Couple-maker, as the <hi>D—k</hi>'s <hi>Place</hi> Hackney.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Terrour.</speaker>
+                     <p>And we'll have an Ox-cheek bak'd extraordi<g ref="char:EOLhyphen"/>nary for the Wedding Dinner, at our Cost and Charges.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ignorance.</speaker>
+                     <p>When I was a School-boy I made some Verses about Matrimony, which my Master Corrected; I'll repeat 'em upon this Occasion.</p>
+                  </sp>
+                  <q>
+                     <lg>
+                        <l>If a Man wants a Clog</l>
+                        <l>To lie like a Log</l>
+                        <l>When he's sleepy,</l>
+                        <l>And dull without Motion:</l>
+                     </lg>
+                     <lg>
+                        <l>He must marry a Maid,</l>
+                        <l>That ne'er knew the Trade,</l>
+                        <l>And has neither</l>
+                        <l>Wit, Beauty, or Portion.</l>
+                     </lg>
+                     <lg>
+                        <pb n="18" facs="tcp:64996:12"/>
+                        <l>Such, such, will be rul'd;</l>
+                        <l>Tho' the Husband is fool'd,</l>
+                        <l>For she'd better be</l>
+                        <l>Lazy than Wanton.</l>
+                     </lg>
+                     <lg>
+                        <l>For the Ass, with dull Pace,</l>
+                        <l>VVill finish his Race,</l>
+                        <l>Tho' more slow than the</l>
+                        <l>Racer they prance on.</l>
+                     </lg>
+                  </q>
+               </div>
+            </div>
+         </div>
+         <div type="epilogue">
+            <head>THE EPILOGUE, Spoke by the <hi>Beadle.</hi>
+            </head>
+            <l>THE Farce is done; and Ladies I invite,</l>
+            <l>To freedoms Hall to Banquet every Night:</l>
+            <l>The <hi>Beggars</hi> too shall all received be,</l>
+            <l>As welcome Guess, invited all by me,</l>
+            <l>
+               <hi>Informers</hi> all shall be kic'd out of Doors,</l>
+            <l>For Rogues are only sit Trapans for Whores.</l>
+            <l>The Model of our Measures now are chang'd,</l>
+            <l>Freedom we'll grant, where e're before it rang'd;</l>
+            <l>Yet Lewdness still we vow for to suppress,</l>
+            <l>Tho' rigour force the desperate in distress</l>
+            <l>To villanous Acts, in hopes to find redress:</l>
+            <l>Experience teaches all our Information,</l>
+            <l>Ʋpon whose Shoulders Sence brings Reformation,</l>
+            <l>The frequent Safety of this injur'd Nation.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64996:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
